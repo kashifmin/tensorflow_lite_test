@@ -1,6 +1,6 @@
 # tflitetest
 
-A new Flutter project.
+Test example app for `tensorflow_lite` plugin
 
 ## Getting Started
 
